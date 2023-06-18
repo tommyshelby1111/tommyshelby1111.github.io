@@ -1,0 +1,1087 @@
+@media only screen and (min-width:1024px) and (max-width:1600px) {
+	.navigation-main-outer li a {
+		padding: 5px 10px;
+		text-decoration: none;
+		font-size: 14px;
+	}
+	.charcoal-banner-left-sec p {
+		font-size: 15px;
+		padding: 0 0 0 0;
+	}
+	.charqueen-header-logo img {
+		width: 200px;
+	}
+
+	.charcoal-banner-left-sec h3 {
+		line-height: 50px;
+		font-size: 38px;
+	}
+	.charcoal-banner-left-sec h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.banner-section {
+		padding: 80px 0;
+	}
+	.charcoal-banner-right-sec img {
+		width: 100%!important;
+	}
+	.charcoal-banner-left-sec {
+		padding-right: 70px;
+	}
+	.our-story-section:before {
+		bottom: 0px;
+	}
+	.our-story-section:after {
+		width: 178px;
+		bottom: 0;
+	}
+	.Private-label-inner {
+		align-items: center;
+	}
+	.private_left_sec h2 {
+		font-size: 32px;
+		margin: 0 0 20px;
+		line-height: 41px;
+	}
+	.private_left_sec p {
+		font-size: 14px;
+		margin: 0 0 20px;
+		line-height: 29px;
+		
+	}
+	.Private-label-section {
+		width: 100%;
+		float: left;
+		padding: 80px 0;
+	}
+	.our_facilities_inner h2 {
+		font-size: 32px;
+		margin-bottom: 10px;
+		line-height: 42px;
+	}
+	.extra_spacing {
+    padding: 0 35px;
+}
+	.private_left_sec p:nth-child(3) {
+		padding-right: 148px;
+	}
+	.our_facilities_inner p {
+		margin: 16px 0;
+		font-size: 14px;
+		line-height: 27px;
+	}
+	.our-services-title p {
+		font-size: 14px;
+		line-height: 26px;
+		margin: 0;
+		padding: 0 190px;
+	}
+	.our_facilities_inner2 {
+		padding: 50px 0 0;
+	}
+	.our_facilities_inner_left h3 {
+		margin-bottom: 10px;
+		font-size: 18px;
+	}
+	.our_facilities_outer {
+		padding: 40px 0;
+	}
+	.our_facilities_inner_left ul li {
+		margin: 10px 0;
+		font-size: 14px;
+		line-height: 24px;
+		padding: 0 20px;
+	}
+	.bbq_pro_inner h2 {
+		font-size: 32px;
+		line-height: 42px;
+	}
+	.Briquettes_outer {
+		padding: 90px 0;
+	}
+	.bbq_pro_info p {
+		font-size: 14px;
+		line-height: 27px;
+	}
+	.bbq_pro_outer {
+		padding: 0 0 60px 0;
+	}
+	.contact_us img {
+		width: 13px;
+	}
+	.footer_right img {
+		width: 75%;
+	}
+	.footer_left p {
+		font-size: 12px;
+		line-height: 24px;
+		margin-top: 18px;
+	}
+	.footer_mid .contact_us a {
+		font-size: 12px;
+		line-height: 25px;
+	}
+	.footer_mid span {
+		font-size: 12px;
+		line-height: 26px;
+	}
+	.footer_mid h5 {
+		font-size: 18px;
+		line-height: 27px;
+	}
+	.footer_left img {
+		width: 250px;
+	}
+	.bbq_pro_inner2 {
+		padding: 40px 0;
+	}
+	.footer_mid {
+		padding-left: 40px!important;
+	}
+	.test_result h4 {
+		float: left;
+		width: 100%;
+		font-size: 18px;
+		line-height: 27px;
+	}
+	.bbq_pro_img_inner {
+		padding: 0 0 80px;
+	}
+	.bbq_pro_left ul li {
+		font-size: 14px;
+		line-height: 50px;
+		background-position: 0 19px!important
+	}
+	.bbq_pro_right ul li {
+		line-height: 26px;
+		background-position: 0 6px!important;
+	}
+	.Briquettes_inner h2 {
+		font-size: 32px;
+		line-height: 42px;
+		margin-bottom: 15px;
+	}
+	.Briquettes_inner p {
+		font-size: 14px;
+		line-height: 27px;
+	}
+	.charcoal_lumps_left p {
+		float: left;
+		width: 100%;
+		font-size: 14px;
+		line-height: 27px;
+	}
+	.charcoal_lumps_left h3 {
+		font-size: 32px;
+		line-height: 42px;
+	}
+	.product_img {
+		padding-top: 35px;
+	}
+	.our_products_inner h2 {
+		font-size: 32px;
+		line-height: 42px;
+	}
+	.our-story-title h1 {
+		font-size: 32px;
+		margin: 0 0 28px;
+		line-height: 45px;
+	}
+	.our-services-title h2 {
+		font-size: 32px;
+		line-height: 41px;
+	}
+	.our-services-section {
+		padding: 80px 0 110px;
+	}
+	.Read-more-button a {
+		font-size: 14px;
+		padding: 14px 26px;
+	}
+	.our-story-title p {
+		font-size: 14px;
+		font-weight: 400;
+		font-family: 'Poppins', sans-serif;
+		color: #151414;
+		margin: 0 0 20px;
+		line-height: 26px;
+	}
+	.our-story-section {
+		padding: 70px 0;
+	}
+	.service-thumbnail img {
+		width: 100%;
+		height: auto;
+	}
+	.private_left_sec li {
+		width: 46%;
+	}
+	.private_left_sec img {
+		height: auto;
+	}
+	.private_right_sec {
+		padding-left: 30px;
+	}
+	.private_right_sec:before {
+		content: "";
+		right: 0;
+		bottom: 0;
+		width: 150px;
+		height: 124px;
+	}
+	.facilities_right_inner img {
+		width: 49%;
+	}
+	.product_img img {
+		height: 300px;
+	}
+	.charcoal_lumps_right img {
+		width: 48%;
+		height: 350px;
+	}
+	.row_heading,
+	.row_data {
+		padding: 15px 20px;
+	}
+	.row_heading .row_cell {
+		font-size: 13px;
+	}
+	.bbq_pro_left img {
+		width: 100%;
+	}
+	.bbq_pro_inner2 {
+		gap: 2%;
+	}
+	.main-header .navbar-dark .navbar-nav .nav-link {
+		font-size: 14px;
+	}
+}
+
+@media (min-width:1201px) and (max-width:1366px) {
+.main-header {	padding: 70px 0 90px;}
+	.navigation-main-outer ul {
+    flex-wrap: wrap;
+}
+}
+
+@media (min-width:992px) and (max-width:1200px) {
+.main-header {	padding: 100px 0 20px;}
+	.navigation-main-outer ul {
+    flex-wrap: wrap;
+}
+
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+	.navigation-main-outer ul {
+    flex-wrap: wrap;
+}
+	.extra_spacing {
+    padding: 0 35px;
+}.main-header {	padding: 100px 0 20px;}
+.our-story-title {
+    padding-right: 0;
+}
+	.charcoal-banner-right-sec {
+		margin: -40px 0 0;
+	}
+	.navigation-main-outer li a {
+		padding: 4px 10px;
+		text-decoration: none;
+		font-size: 12px;
+	}
+	.charqueen-header-logo img {
+		width: 200px;
+	}
+
+	.charcoal-banner-left-sec p {
+		font-size: 14px;
+		padding: 0 0 0 0;
+	}
+	.charcoal-banner-left-sec h3 {
+		line-height: 44px;
+		font-size: 32px;
+	}
+	.charcoal-banner-left-sec h2 {
+		font-size: 25px;
+		line-height: 40px;
+	}
+	.banner-section {
+		padding: 80px 0;
+	}
+	.charcoal-banner-right-sec img {
+		width: 100%!important;
+	}
+	.charcoal-banner-left-sec {
+		padding-right: 0px;
+	}
+	.banner-section a {
+		font-size: 14px;
+		padding: 12px 20px;
+	}
+	.our-story-section:before {
+		bottom: 0px;
+	}
+	.our-story-section:after {
+		width: 178px;
+		bottom: 0;
+	}
+	.Private-label-inner {
+		align-items: center;
+	}
+	.private_left_sec h2 {
+		font-size: 28px;
+		margin: 0 0 10px;
+		line-height: 35px;
+	}
+	.private_left_sec p {
+		font-size: 12px;
+		margin: 0 0 10px;
+		line-height: 24px;
+	}
+	.Private-label-section {
+		width: 100%;
+		float: left;
+		padding: 80px 0;
+	}
+	.our_facilities_inner h2 {
+		font-size: 28px;
+		line-height: 35px;
+		margin: 0;
+	}
+	.our_facilities_inner p {
+		margin: 12px 0;
+		font-size: 13px;
+		line-height: 26px;
+	}
+	.our-services-title p {
+		font-size: 13px;
+		line-height: 25px;
+		padding: 0 50px;
+		margin: 0;
+	}
+	.our_facilities_inner2 {
+		padding: 50px 0 0;
+	}
+	.our_facilities_inner_left h3 {
+		margin-bottom: 8px;
+		font-size: 16px;
+	}
+	.our_products_outer {
+		margin: 80px 0;
+	}
+	.our_facilities_outer {
+		padding: 40px 0;
+	}
+	.our_facilities_inner_left ul li {
+		margin: 7px 0;
+		font-size: 12px;
+		line-height: 24px;
+		padding: 0 16px;
+	}
+	.bbq_pro_inner h2 {
+		font-size: 28px;
+		line-height: 35px;
+	}
+	.Briquettes_outer {
+		padding: 90px 0;
+	}
+	.bbq_pro_info p {
+		font-size: 13px;
+		line-height: 25px;
+	}
+	.bbq_pro_outer {
+		padding: 0 0 60px 0;
+	}
+	.contact_us img {
+		width: 12px;
+	}
+	.phone img{
+		width: 8px;
+		margin-right: 9px;
+
+	}
+	.footer_right img {
+		width: 75%;
+	}
+	.footer_left p {
+		font-size: 12px;
+		line-height: 22px;
+		margin-top: 15px;
+	}
+	.bbq_pro_left ul {
+		float: left;
+		margin: 30px 0 0;
+	}
+	.footer_mid .contact_us a {
+		font-size: 12px;
+		line-height: 25px;
+	}
+	.footer_mid span {
+		font-size: 12px;
+		line-height: 26px;
+	}
+	.footer_mid h5 {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.footer_left img {
+		width: 250px;
+	}
+	.bbq_pro_inner2 {
+		padding: 30px 0;
+	}
+	.footer_mid {
+		padding-left: 40px!important;
+	}
+	.test_result h4 {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.bbq_pro_img_inner {
+		padding: 0 0 80px;
+	}
+	.bbq_pro_left ul li {
+		font-size: 12px;
+		line-height: 35px;
+		background-position: 0 11px!important;
+	}
+	.bbq_pro_right ul li {
+		line-height: 26px;
+		background-position: 0 6px!important;
+	}
+	.Briquettes_inner h2 {
+		font-size: 28px;
+		line-height: 35px;
+		margin-bottom: 12px;
+	}
+	.Briquettes_inner p {
+		font-size: 13px;
+		line-height: 25px;
+	}
+	.charcoal_lumps_left p {
+		font-size: 12px;
+		line-height: 24px;
+	}
+	.charcoal_lumps_left h3 {
+		font-size: 28px;
+		line-height: 35px;
+	}
+	.product_img {
+		padding-top: 24px;
+	}
+	.Briquettes_inner2 img {
+		width: 50%;
+		height: 273px;
+		object-fit: cover;
+	}
+	.our_products_inner h2 {
+		font-size: 28px;
+		line-height: 35px;
+	}
+	.our-story-title h1 {
+		font-size: 28px;
+		margin: 0 0 23px;
+		line-height: 40px;
+	}
+	.our-services-title h2 {
+		font-size: 29px;
+		line-height: 35px;
+	}
+	.our-services-section {
+		padding: 80px 0 110px;
+	}
+	.Read-more-button a {
+		font-size: 13px;
+		padding: 14px 20px;
+	}
+	.our-story-title p {
+		font-size: 13px;
+		margin: 0 0 15px;
+		line-height: 25px;
+	}
+	.our-story-section {
+		padding: 70px 0;
+	}
+	.service-thumbnail img {
+		width: 100%;
+		height: auto;
+	}
+	.private_left_sec li {
+		width: 46%;
+	}
+	.private_left_sec img {
+		height: auto;
+	}
+	.private_right_sec {
+		padding-left: 0;
+	}
+	.our_facilities_inner_main {
+    z-index: 9;
+}
+	.private_left_sec p:nth-child(3) {
+    float: left;
+    padding-right: 125px;
+}
+	.private_right_sec:before {
+    content: "";
+    right: -17px;
+    bottom: -17px;
+    width: 150px;
+    height: 124px;
+}
+	.facilities_right_inner img {
+		width: 49%;
+	}
+	.product_img img {
+		height: 250px;
+	}
+	.charcoal_lumps_right img {
+		width: 48%;
+		height: 300px;
+	}
+	.Briquettes_inner {
+    padding: 0 50px;
+}
+	.charcoal_lumps_inner .charcoal_lumps_left {
+    float: left;
+    padding-right: 20px!important;
+}
+	.row_heading,
+	.row_data {
+		padding: 15px 10px;
+	}
+	.row_heading .row_cell {
+		font-size: 12px;
+	}
+	.row_cell1 {
+		float: left;
+		width: 26%;
+	}
+	.row_cell2 {
+		float: left;
+		width: 23%;
+	}
+	.row_cell3 {
+		float: left;
+		width: 26%;
+	}
+	.row_cell4 {
+		float: left;
+		width: 25%;
+	}
+	.bbq_pro_left img {
+		width: 100%;
+	}
+	.row_data .row_cell {
+		font-size: 12px;
+		line-height: 26px;
+	}
+	.bbq_pro_inner2 {
+		gap: 2%;
+	}
+	.main-header .navbar-dark .navbar-nav .nav-link {
+		font-size: 12px;
+	}
+	.main-header nav.navbar.navbar-expand-md.navbar-dark {
+		padding: 15px 0;
+	}
+	.main-header div#collapsibleNavbar li {
+		margin: 0 0 0 8px;
+	}
+	.main-header {
+		background-size: cover;
+	}
+	.charcoal_lumps_outer {
+		padding: 80px 0;
+	}
+}
+
+@media (max-width:767px) {
+	.main-header {padding: 70px 0 0px;}
+	.charcoal_lumps_inner {
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+		text-align: center;
+	}
+	.charcoal-banner-left-sec p {
+		font-size: 12px;
+		padding: 0 0 0 0;
+	}
+	.charcoal-banner-left-sec h3 {
+		line-height: 37px;
+		font-size: 25px;
+	}
+	.charcoal-banner-left-sec h2 {
+		font-size: 22px;
+		line-height: 31px;
+	}
+	.banner-section {
+		padding: 30px 0 0;
+	}
+	.charcoal-banner-right-sec {
+		margin: 35px 0 0;
+	}
+	.charcoal-banner-right-sec img {
+		width: 100%!important;
+	}
+	.charcoal-banner-left-sec {
+		padding-right: 0px;
+	}
+	.banner-section a {
+		font-size: 12px;
+		padding: 11px 13px;
+	}
+	.our-story-section:before {
+		bottom: 0px;
+		width: 95px;
+		height: 95px;
+	}
+	.our-story-section:after {
+		width: 120px;
+		bottom: -20px;
+		height: 120px;
+	}
+	.our_facilities_outer:before {
+		top: -50px;
+		height: 80px;
+	}
+	.Private-label-inner {
+		align-items: center;
+		flex-direction: column;
+	}
+	.private_left_sec h2 {
+		font-size: 23px;
+		margin: 0 0 10px;
+		line-height: 30px;
+	}
+	.private_left_sec p {
+		font-size: 12px;
+		margin: 0 0 10px;
+		line-height: 24px;
+	}
+	.Private-label-section {
+		width: 100%;
+		float: left;
+		padding: 80px 0;
+	}
+	.our_facilities_inner h2 {
+		font-size: 23px;
+		line-height: 30px;
+		margin: 0;
+	}
+	.our_facilities_inner p {
+		margin: 12px 0;
+		font-size: 12px;
+		line-height: 25px;
+	}
+	.our-services-title p {
+		font-size: 12px;
+		line-height: 25px;
+		padding: 0;
+		margin: 0;
+	}
+	.our_facilities_inner2 {
+		padding: 30px 5px 0 5px!important;
+	}
+	.our_facilities_outer:after {
+		bottom: -45px;
+		height: 80px;
+	}
+	.our_facilities_inner_left h3 {
+		margin-bottom: 8px;
+		font-size: 16px;
+	}
+	.our_products_outer {
+		margin: 80px 0;
+	}
+	.our_facilities_outer {
+		padding: 40px 0;
+		margin: 50px 0;
+	}
+	.our_facilities_inner_left ul li {
+		margin: 7px 0;
+		font-size: 12px;
+		line-height: 24px;
+		padding: 0 16px;
+	}
+	.bbq_pro_inner h2 {
+		font-size: 23px;
+		line-height: 35px;
+	}
+	.Briquettes_outer {
+		padding: 45px 0;
+	}
+	.our_facilities_inner_left {width: 100%;margin: 10px 0;
+}
+	.bbq_pro_info p {
+		font-size: 12px;
+		line-height: 24px;
+	}
+	.bbq_pro_info {
+		float: left;
+		width: 100%;
+		margin: 12px 0;
+	}
+	.bbq_pro_space {
+		padding-left: 0!important;
+		padding-right: 0!important;
+	}
+	.bbq_pro_outer {
+		padding: 0 0 60px 0;
+	}
+	.contact_us img {
+		width: 13px;
+	}
+	.footer_right img {
+		width: 300px;
+	}
+	.footer_left p {
+		font-size: 12px;
+		line-height: 22px;
+		margin-top: 15px;
+	}
+	.bbq_pro_left ul {
+		float: left;
+		margin: 10px 0 0;
+	}
+	.footer_mid .contact_us a {
+		font-size: 12px;
+		line-height: 25px;
+	}
+	.footer_mid span {
+		font-size: 12px;
+		line-height: 26px;
+	}
+	.footer_mid h5 {
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.footer_left img {
+		width: 250px;
+	}
+	.bbq_pro_inner2 {
+		padding: 20px 0;
+	}
+	.footer_mid {
+		padding-left: 0!important;
+		text-align: center;
+		margin: 15px 0;
+	}
+	.bbq_pro_right ul li:nth-child(1) {
+		margin-top: 0;
+	}
+	.bbq_pro_right {
+		float: Left;
+		margin-top: 40px;
+	}
+	.footer_right {
+		justify-content: center;
+		padding-top: 15px;
+	}
+	.test_result h4 {
+		font-size: 15px;
+		line-height: 22px;
+	}
+	.bbq_pro_img_inner {
+		padding: 0 0 80px;
+	}
+	.bbq_pro_left ul li {
+		font-size: 12px;
+		line-height: 35px;
+		background-position: 0 11px!important;
+	}
+	.bbq_pro_right ul li {
+		line-height: 26px;
+		background-position: 0 6px!important;
+	}
+	.Briquettes_inner h2 {
+		font-size: 28px;
+		line-height: 35px;
+		margin-bottom: 12px;
+	}
+	.Briquettes_inner p {
+		font-size: 13px;
+		line-height: 25px;
+	}
+	.charcoal_lumps_left p {
+		font-size: 12px;
+		line-height: 24px;
+	}
+	.charcoal_lumps_left h3 {
+		font-size: 28px;
+		line-height: 35px;
+	}
+	.Briquettes_inner2 {
+		flex-direction: column;
+		padding: 25px 5px;
+	}
+	.product_img {
+		padding-top: 24px;
+		flex-direction: column;
+	}
+	.Briquettes_inner2 img {
+		width: 100%;
+		height: 273px;
+		object-fit: cover;
+		margin: 15px 0;
+	}
+	.our_products_inner h2 {
+		font-size: 28px;
+		line-height: 35px;
+	}
+	.our-story-title h1 {
+		font-size: 23px;
+		margin: 0 0 15px;
+		line-height: 30px;
+	}
+	.our-services-title h2 {
+		font-size: 23px;
+		line-height: 29px;
+		margin: 0 0 6px 0;
+	}
+	.our-services-section {
+		padding: 80px 0 110px;
+	}
+	.Read-more-button a {
+		font-size: 12px;
+		padding: 12px 15px;
+	}
+	.our-story-title p {
+		font-size: 12px;
+		margin: 0 0 10px;
+		line-height: 23px;
+	}
+	.our-story-section {
+		padding: 70px 0;
+	}
+	.service-thumbnail img {
+		width: 100%;
+		height: 215px;
+		object-fit: cover;
+		margin: 10px 0;
+	}
+	.private_left_sec li {
+		width: 48%;
+		margin: 0;
+	}
+	.private_left_sec ul {
+		display: flex;
+		gap: 4%;
+	}
+	.private_left_sec img {
+		height: auto;
+	}
+	.private_right_sec {
+		padding-left: 0;
+	}
+	.private_right_sec:before {
+		content: "";
+		right: 0;
+		bottom: 0;
+		width: 117px;
+		height: 95px;
+	}
+	.facilities_right_inner img {
+		width: 49%;
+	}
+	.product_img img {
+		width: 100%;
+		height: 300px;
+		margin: 15px 0;
+	}
+	.charcoal_lumps_right img {
+		width: 100%;
+		height: auto;
+		margin: 10px 0;
+	}
+	.row_heading,
+	.row_data {
+		padding: 15px 10px;
+	}
+	.row_heading .row_cell {
+		font-size: 12px;
+	}
+	.our_facilities_inner2 {
+		flex-direction: column;
+	}
+	.row_cell1 {
+		float: left;
+		width: 27%;
+	}
+	.row_cell2 {
+		float: left;
+		width: 19%;
+	}
+	.row_cell3 {
+		float: left;
+		width: 30%;
+	}
+	.row_cell4 {
+		float: left;
+		width: 24%;
+	}
+	.bbq_pro_left img {
+		width: 100%;
+	}
+	.row_data .row_cell {
+		font-size: 12px;
+		line-height: 26px;
+	}
+	.bbq_pro_inner2 {
+		gap: 2%;
+		flex-direction: column;
+	}
+	.main-header .navbar-dark .navbar-nav .nav-link {
+		font-size: 12px;
+	}
+	.main-header nav.navbar.navbar-expand-md.navbar-dark {
+		padding: 15px 0;
+	}
+	.main-header div#collapsibleNavbar li {
+		margin: 0 0 0 8px;
+	}
+	.main-header {
+		background-size: cover;
+	}
+	.charcoal_lumps_outer {
+		padding: 80px 0;
+	}
+	.footer_inner {
+		flex-direction: column;
+	}
+	.footer_left {
+		text-align: center;
+		margin: 15px 0;
+		padding: 0 5px!important;
+	}
+	.Private-label_right{margin-top:20px;}
+	.charcoal_lumps_inner .charcoal_lumps_left {
+		padding-right: 0 !important;
+	}
+	.charcoal_lumps_right {
+		flex-direction: column;
+	}
+	.our-story-title {
+    padding-right: 0;
+}
+.extra_spacing {
+    padding: 0 35px;
+}
+.private_left_sec p:nth-child(3) {
+    float: left;
+    padding-right: 100px;
+}
+.bbq_pro_left {width: 100%;
+}
+.Briquettes_inner { padding: 0 5px;
+}
+	/*CUSTOM-MENU START*/
+	.pushmenu-push {
+		display: none;
+	}
+	.header-fixed {
+    background: rgba(0,0,0,1);
+}
+.header_outer.sticky.header-fixed .charqueen-header-logo img, .charqueen-header-logo img {
+    width: 150px;
+}
+	.charqueen-header-inner {position:relative;padding: 0 !important;}
+	.navigation-main-outer button.navbar-toggle {
+		position: absolute;
+		z-index: 99;
+		margin: 0;
+		padding: 0;
+		cursor: pointer;
+		display: block !important;
+		background: none !important;
+		border: 0px;
+		outline: none;
+		left: auto;
+		z-index: 999999;
+		right: 10px;
+		top: 18px;
+	}
+
+	.navigation-main-outer button.navbar-toggle .icon-bar {
+		display: block;
+		width: 30px;
+		height: 5px;
+		border-radius: 1px;
+		background: #ff5215;
+		margin: 0 0 5px 0;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px;
+	}
+	.nav-open .navigation-main-outer button.navbar-toggle .icon-bar+.icon-bar {
+		margin-top: 4px;
+	}
+	.nav-open .navigation-main-outer button.navbar-toggle .icon-bar:nth-child(1) {
+		transform: rotate(45deg);
+		-webkit-transform: rotate(44deg);
+		left: 0px;
+		position: relative;
+		top: 7px;
+	}
+	.nav-open .navigation-main-outer button.navbar-toggle .icon-bar:nth-child(3) {
+		transform: rotate(45deg);
+		-webkit-transform: rotate(134deg);
+		left: 0px;
+		position: relative;
+		top: -3px;
+	}
+	.nav-open .navigation-main-outer button.navbar-toggle .icon-bar:nth-child(2) {
+		display: none;
+	}
+	.nav-open .navigation-main-outer button.navbar-toggle .icon-bar {
+		background: #fff;
+	}
+	.pushmenu-push {
+		position: fixed;
+		width: 300px;
+		height: 100vh;
+		overflow: auto;
+		background: #000;
+		top: 0;
+		display: block;
+		padding: 110px 20px 80px;
+		z-index: 9999;
+		transition: .3s all ease;
+		-webkit-transition: .3s all ease;
+		right: -450px;
+	}
+	.nav-open .pushmenu-push {
+		right: 0;
+	}
+	.nav_barul {
+		float: left;
+		width: 100%;
+		margin: 30px 0 0;
+	}
+	.navigation-main-outer li {
+		float: left;
+		width: 100%;
+		margin: 0 0 10px;
+	}
+	.navigation-main-outer li a {
+	float: left;
+	text-align: left;
+	width: 100%;
+	font-size: 14px;
+	line-height: 21px;
+	margin: 0 0 0px;
+	color: #fff;
+}
+.header_outer.sticky {	padding: 0 10px;}
+	.navigation-main-outer ul {
+		display: block;
+	}
+	/*CUSTOM-MENU END*/
+	/*scroll table start*/
+	.test_result_table2{width:800px;}
+	.test_result_table{overflow-x:scroll;}
+	/*scroll table end*/
+}
